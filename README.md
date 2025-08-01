@@ -1,4 +1,4 @@
-# Imersão Dev - Cabo de Guerra
+# Imersão Dev - Show do Milhão
 
 Este é um projeto desenvolvido durante a Imersão Dev da Alura, inspirado no famoso programa de perguntas e respostas "Show do Milhão". O objetivo é testar seus conhecimentos gerais respondendo a perguntas de múltipla escolha com diferentes níveis de dificuldade.
 
